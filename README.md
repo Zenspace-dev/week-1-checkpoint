@@ -16,4 +16,6 @@
 | 4 | Add about me section to index.html| | main |
 | 5 | Add My favorite animals section | unordered list | main |
 | 6 | Add My favorite goats section | ordered list  | main |
-| 7 | Update ACP log
+| 7 | Update ACP log |...| main |
+| 8 | Add link to site I like | Add link to ADGA site  | main |
+| 9 | Add image of Baby Apolo | Add Citation and Title to image | main |
