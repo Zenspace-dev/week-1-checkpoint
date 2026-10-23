@@ -12,5 +12,8 @@
 |---|----------------|----------------|--------|
 | 1 | Made the repo on GitHub with a README | Initial commit | main |
 | 2 | Created my first page | Add first page | main |
-| 3 | Updated index.html | list of changes | main |
-| 4 | ... | ... | main |
+| 3 | Updated index.html | Update project files | main |
+| 4 | Add about me section to index.html| | main |
+| 5 | Add My favorite animals section | unordered list | main |
+| 6 | Add My favorite goats section | ordered list  | main |
+| 7 | Update ACP log
