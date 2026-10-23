@@ -21,3 +21,4 @@
 | 9 | Add image of Baby Apolo | Add Citation and Title to image | main |
 | 10 | Update ACP log | ... | main |
 | 11 | Fix image tag typo | ... | main |
+| 12 | Fix image case sensitivity | ... | main |
